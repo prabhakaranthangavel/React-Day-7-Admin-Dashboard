@@ -1,0 +1,50 @@
+Given below sb-admin Sidebar steps 
+
+step 1 : Create a folder
+
+step 2 : Search the sb-admin Github
+
+step 3 : Copy to Pagewrapper to End of Sidebar 
+
+step 4 : Paste the App.jsx <div> Paste </div>
+
+step 5 : தேவையில்லாததை commands செய்ய வேண்டும்.
+
+step 6 : hr tag ஐ close செய்ய வேண்டும். <hr>...</hr>
+
+step 7 : அதேபோல் img tag ஐ close செய்ய வேண்டும். <img>...</img>
+
+step 8 : கடைசியில் ஒரு div ஐ add செய்ய வேண்டும்.
+
+step 9 : class= என்பதை className= என்று change செய்ய வேண்டும்.
+
+step 10 : img tag ல் ஒரு image[Copy by image address] ஐ add செய்ய வேண்டும்.
+
+step 11 : Stying செய்ய வேண்டும்.
+          Github => css => sb-admin-2-css - copy the css
+          Create the style folder => Create the App.css file => Paste
+          App.jsx ல் import செய்ய வேண்டும். import './style/App.css'
+
+step 12 : icons ஐ add செய்ய bootstrap ஐ install செய்ய வேண்டும்.
+          npm install bootstrap@4.6.0
+
+          bootstrap ஐ import செய்ய வேண்டும்.
+          import 'bootstrap/dist/css/bootstrap.css';
+          import 'bootstrap/dist/js/bootstrap.bundle';
+
+step 13 : fonts ஐ add செய்ய font-awesome ஐ install செய்ய வேண்டும்.
+
+          npm i --save 
+          @fortawesome/fontawesome-svg-core 
+          @fortawesome/react-fontawesome 
+          @fortawesome/free-regular-svg-icons 
+          @fortawesome/free-solid-svg-icons 
+          @fortawesome/free-brands-svg-icons
+
+          இதனுடன் font awesome version ஐ install செய்ய வேண்டும்
+          npm install  @fortawesome/fontawesome-free@5.15.3
+
+          fontawesome ஐ import செய்ய வேண்டும்.
+          import '@fortawesome/fontawesome-free/css/all.min.css';
+
+*************************************************************************************************************************
